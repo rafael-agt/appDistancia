@@ -26,14 +26,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8CCEECDE1D2AF7A400F6E8D9 /* appBeaconDistance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = appBeaconDistance.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CCEECDE1D2AF7A400F6E8D9 /* AGT Distancia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AGT Distancia.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CCEECE11D2AF7A400F6E8D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8CCEECE31D2AF7A400F6E8D9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8CCEECE61D2AF7A400F6E8D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8CCEECE81D2AF7A400F6E8D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8CCEECEB1D2AF7A400F6E8D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8CCEECED1D2AF7A400F6E8D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8CCEECF21D2AF7A500F6E8D9 /* appBeaconDistanceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appBeaconDistanceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CCEECF21D2AF7A500F6E8D9 /* AGT Distancia.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AGT Distancia.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CCEECF61D2AF7A500F6E8D9 /* appBeaconDistanceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appBeaconDistanceUITests.swift; sourceTree = "<group>"; };
 		8CCEECF81D2AF7A500F6E8D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,8 +68,8 @@
 		8CCEECDF1D2AF7A400F6E8D9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8CCEECDE1D2AF7A400F6E8D9 /* appBeaconDistance.app */,
-				8CCEECF21D2AF7A500F6E8D9 /* appBeaconDistanceUITests.xctest */,
+				8CCEECDE1D2AF7A400F6E8D9 /* AGT Distancia.app */,
+				8CCEECF21D2AF7A500F6E8D9 /* AGT Distancia.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -99,9 +99,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8CCEECDD1D2AF7A400F6E8D9 /* appBeaconDistance */ = {
+		8CCEECDD1D2AF7A400F6E8D9 /* AGT Distancia */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8CCEECFB1D2AF7A500F6E8D9 /* Build configuration list for PBXNativeTarget "appBeaconDistance" */;
+			buildConfigurationList = 8CCEECFB1D2AF7A500F6E8D9 /* Build configuration list for PBXNativeTarget "AGT Distancia" */;
 			buildPhases = (
 				8CCEECDA1D2AF7A400F6E8D9 /* Sources */,
 				8CCEECDB1D2AF7A400F6E8D9 /* Frameworks */,
@@ -111,14 +111,14 @@
 			);
 			dependencies = (
 			);
-			name = appBeaconDistance;
+			name = "AGT Distancia";
 			productName = appBeaconDistance;
-			productReference = 8CCEECDE1D2AF7A400F6E8D9 /* appBeaconDistance.app */;
+			productReference = 8CCEECDE1D2AF7A400F6E8D9 /* AGT Distancia.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8CCEECF11D2AF7A500F6E8D9 /* appBeaconDistanceUITests */ = {
+		8CCEECF11D2AF7A500F6E8D9 /* AGT DistanciaUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8CCEECFE1D2AF7A500F6E8D9 /* Build configuration list for PBXNativeTarget "appBeaconDistanceUITests" */;
+			buildConfigurationList = 8CCEECFE1D2AF7A500F6E8D9 /* Build configuration list for PBXNativeTarget "AGT DistanciaUITests" */;
 			buildPhases = (
 				8CCEECEE1D2AF7A500F6E8D9 /* Sources */,
 				8CCEECEF1D2AF7A500F6E8D9 /* Frameworks */,
@@ -129,9 +129,9 @@
 			dependencies = (
 				8CCEECF41D2AF7A500F6E8D9 /* PBXTargetDependency */,
 			);
-			name = appBeaconDistanceUITests;
+			name = "AGT DistanciaUITests";
 			productName = appBeaconDistanceUITests;
-			productReference = 8CCEECF21D2AF7A500F6E8D9 /* appBeaconDistanceUITests.xctest */;
+			productReference = 8CCEECF21D2AF7A500F6E8D9 /* AGT Distancia.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -154,7 +154,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8CCEECD91D2AF7A300F6E8D9 /* Build configuration list for PBXProject "appBeaconDistance" */;
+			buildConfigurationList = 8CCEECD91D2AF7A300F6E8D9 /* Build configuration list for PBXProject "AGT Distancia" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -167,8 +167,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8CCEECDD1D2AF7A400F6E8D9 /* appBeaconDistance */,
-				8CCEECF11D2AF7A500F6E8D9 /* appBeaconDistanceUITests */,
+				8CCEECDD1D2AF7A400F6E8D9 /* AGT Distancia */,
+				8CCEECF11D2AF7A500F6E8D9 /* AGT DistanciaUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -216,7 +216,7 @@
 /* Begin PBXTargetDependency section */
 		8CCEECF41D2AF7A500F6E8D9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8CCEECDD1D2AF7A400F6E8D9 /* appBeaconDistance */;
+			target = 8CCEECDD1D2AF7A400F6E8D9 /* AGT Distancia */;
 			targetProxy = 8CCEECF31D2AF7A500F6E8D9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -332,7 +332,7 @@
 				INFOPLIST_FILE = appBeaconDistance/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = AGT.appBeaconDistance;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "AGT Distancia";
 			};
 			name = Debug;
 		};
@@ -344,7 +344,7 @@
 				INFOPLIST_FILE = appBeaconDistance/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = AGT.appBeaconDistance;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "AGT Distancia";
 			};
 			name = Release;
 		};
@@ -354,7 +354,7 @@
 				INFOPLIST_FILE = appBeaconDistanceUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = AGT.appBeaconDistanceUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "AGT Distancia";
 				TEST_TARGET_NAME = appBeaconDistance;
 			};
 			name = Debug;
@@ -365,7 +365,7 @@
 				INFOPLIST_FILE = appBeaconDistanceUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = AGT.appBeaconDistanceUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "AGT Distancia";
 				TEST_TARGET_NAME = appBeaconDistance;
 			};
 			name = Release;
@@ -373,7 +373,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8CCEECD91D2AF7A300F6E8D9 /* Build configuration list for PBXProject "appBeaconDistance" */ = {
+		8CCEECD91D2AF7A300F6E8D9 /* Build configuration list for PBXProject "AGT Distancia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8CCEECF91D2AF7A500F6E8D9 /* Debug */,
@@ -382,21 +382,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8CCEECFB1D2AF7A500F6E8D9 /* Build configuration list for PBXNativeTarget "appBeaconDistance" */ = {
+		8CCEECFB1D2AF7A500F6E8D9 /* Build configuration list for PBXNativeTarget "AGT Distancia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8CCEECFC1D2AF7A500F6E8D9 /* Debug */,
 				8CCEECFD1D2AF7A500F6E8D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		8CCEECFE1D2AF7A500F6E8D9 /* Build configuration list for PBXNativeTarget "appBeaconDistanceUITests" */ = {
+		8CCEECFE1D2AF7A500F6E8D9 /* Build configuration list for PBXNativeTarget "AGT DistanciaUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8CCEECFF1D2AF7A500F6E8D9 /* Debug */,
 				8CCEED001D2AF7A500F6E8D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:appBeaconDistance.xcodeproj">
+      location = "self:/Users/AGT/Desktop/AGT Projetos/appBeaconDistance/AGT Distancia.xcodeproj">
    </FileRef>
 </Workspace>

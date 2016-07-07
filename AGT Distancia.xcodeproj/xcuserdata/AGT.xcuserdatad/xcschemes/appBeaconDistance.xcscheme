@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8CCEECDD1D2AF7A400F6E8D9"
-               BuildableName = "appBeaconDistance.app"
-               BlueprintName = "appBeaconDistance"
-               ReferencedContainer = "container:appBeaconDistance.xcodeproj">
+               BuildableName = "AGT Distancia.app"
+               BlueprintName = "AGT Distancia"
+               ReferencedContainer = "container:AGT Distancia.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8CCEECF11D2AF7A500F6E8D9"
-               BuildableName = "appBeaconDistanceUITests.xctest"
-               BlueprintName = "appBeaconDistanceUITests"
-               ReferencedContainer = "container:appBeaconDistance.xcodeproj">
+               BuildableName = "AGT Distancia.xctest"
+               BlueprintName = "AGT DistanciaUITests"
+               ReferencedContainer = "container:AGT Distancia.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8CCEECDD1D2AF7A400F6E8D9"
-            BuildableName = "appBeaconDistance.app"
-            BlueprintName = "appBeaconDistance"
-            ReferencedContainer = "container:appBeaconDistance.xcodeproj">
+            BuildableName = "AGT Distancia.app"
+            BlueprintName = "AGT Distancia"
+            ReferencedContainer = "container:AGT Distancia.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8CCEECDD1D2AF7A400F6E8D9"
-            BuildableName = "appBeaconDistance.app"
-            BlueprintName = "appBeaconDistance"
-            ReferencedContainer = "container:appBeaconDistance.xcodeproj">
+            BuildableName = "AGT Distancia.app"
+            BlueprintName = "AGT Distancia"
+            ReferencedContainer = "container:AGT Distancia.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -85,9 +85,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8CCEECDD1D2AF7A400F6E8D9"
-            BuildableName = "appBeaconDistance.app"
-            BlueprintName = "appBeaconDistance"
-            ReferencedContainer = "container:appBeaconDistance.xcodeproj">
+            BuildableName = "AGT Distancia.app"
+            BlueprintName = "AGT Distancia"
+            ReferencedContainer = "container:AGT Distancia.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
